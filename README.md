@@ -39,6 +39,10 @@ Remember the rules:
     
 10.Generate a random number between 1 and 9 (including 1 and 9). Ask the user to guess the number, then tell them whether they guessed too low, too high, or exactly right. 
     
+11.Write a program that returns a list that contains only the elements that are common between the lists (without duplicates). Make sure your program works on two lists of different sizes. Write this using at least one list comprehension
+Extra:
+
+    Randomly generate two lists to test this
 
 
 
