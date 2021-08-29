@@ -43,6 +43,8 @@ Remember the rules:
 Extra:
 
     Randomly generate two lists to test this
+    
+12.Ask the user for a number and determine whether the number is prime or not. (For those who have forgotten, a prime number is a number that has no divisors.).
 
 
 
